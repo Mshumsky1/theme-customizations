@@ -161,6 +161,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-photo-3839694_7f596395-15b8-4eea-9ae8-3d4f429f9943.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
